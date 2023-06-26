@@ -1,0 +1,6 @@
+
+การควบคุมเครื่องจักรอัจฉริยะโดยใช้การสื่อสารระหวางเครื่องจักรกับเครื่องจักร M2M - Intelligence Machine Control 
+M2M-D10	> https://youtu.be/bu6U3oWH3M4
+M2M-D20	> https://youtu.be/NIXiYkvVjnU
+M2M-D30	> https://youtu.be/RMk0dvnBkTI
+M2M-D40	> https://youtu.be/7JLT_OLSA9c
